@@ -1,0 +1,37 @@
+{
+	"name": "packetizer",
+	"version": "0.0.0",
+	"author": {
+		"name": "Alexander Kuznetsov",
+		"email": "alexander@kuznetsov.by",
+		"url": "http://kuznetsov.by/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shkuznetsov/packetizer.git"
+	},
+	"homepage": "https://github.com/shkuznetsov/packetizer",
+	"keywords": [
+		"package",
+		"compose",
+		"components"
+	],
+	"dependencies": {
+		"lodash": "~3.3",
+		"promise": "~6.1",
+		"is-promise": "~2.0",
+		"vinyl-fs": "~1.0"
+	},
+	"engines": {
+		"node": ">= 0.9"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"readmeFilename": "README.md",
+	"bugs": {
+		"url": "https://github.com/shkuznetsov/packetizer/issues"
+	}
+}
