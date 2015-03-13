@@ -21,7 +21,7 @@
 		"semver": "~4.3",
 		"promise": "~6.1",
 		"is-promise": "~2.0",
-		"mkpath": "~0.1",
+		"mkdirp": "~0.5",
 		"vinyl-fs": "~1.0"
 	},
 	"engines": {
