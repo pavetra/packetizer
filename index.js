@@ -4,7 +4,8 @@ module.exports =
 
 	hooks: {
 		copy: require('./lib/hooks/copy.js'),
-		gitignore: require('./lib/hooks/gitignore.js')
+		merge: require('./lib/hooks/merge.js'),
+		enumerate: require('./lib/hooks/enumerate.js')
 	},
 
 	pack: require('./lib/pack.js')
